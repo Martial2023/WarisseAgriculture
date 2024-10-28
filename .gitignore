@@ -1,0 +1,4 @@
+# Ignore le fichier de base de données SQLite
+dataset/
+
+warisse/
